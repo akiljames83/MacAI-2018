@@ -9,6 +9,7 @@ https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python
 Machine Vision:
 
 
+https://www.udemy.com/computer-vision-a-z/
 
 Modern Deep Learning:
 
