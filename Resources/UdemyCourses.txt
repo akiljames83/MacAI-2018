@@ -1,0 +1,15 @@
+Text File for Udemy Courses Ta's have found useful in developping their Machine Learning skills
+
+
+
+Introduction to Tensorflow: 
+https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/
+
+
+Machine Vision:
+
+
+
+Modern Deep Learning:
+
+
