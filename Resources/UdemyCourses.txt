@@ -14,3 +14,4 @@ https://www.udemy.com/computer-vision-a-z/
 Modern Deep Learning:
 
 
+https://www.udemy.com/data-science-deep-learning-in-theano-tensorflow/

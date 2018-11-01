@@ -1,0 +1,4 @@
+Introduction Articles to Machine Learning Basics
+
+Multi-layer Perceptron Article - Nahua Kang:
+https://towardsdatascience.com/multi-layer-neural-networks-with-sigmoid-function-deep-learning-for-rookies-2-bf464f09eb7f

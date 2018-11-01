@@ -1,0 +1,5 @@
+Deep Learning Specialization - Andrew Ng:
+https://www.coursera.org/specializations/deep-learning
+
+Machine Learning - Also by Andrew Ng:
+https://www.coursera.org/learn/machine-learning
